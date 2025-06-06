@@ -53,9 +53,9 @@ int main(){
                 }
                 cout<<"El total de tu compra es: $"<<x<<endl;
                 return 0;
-                default:
-                cout<<"Opcion invalida\n";
-                break;
+            default:
+            cout<<"Opcion invalida\n";
+            break;
                 
         }
     } while(true);
